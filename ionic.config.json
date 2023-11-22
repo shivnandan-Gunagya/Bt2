@@ -1,0 +1,7 @@
+{
+  "name": "helloBT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
